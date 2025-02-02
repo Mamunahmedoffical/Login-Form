@@ -7,12 +7,10 @@ A clean and responsive login form built using **HTML**, **CSS**, and **JavaScrip
 ![Login Form Screenshot](./Login-Form.png)
 
 ---
+# 📋 Login Form live link
 
-## 🌟 Features  
+![Login Form live link] https://login-form-gamma-three.vercel.app/
 
-- Simple and minimalist design  
-- Fully responsive layout  
-- Interactive login button  
 
 ---
 
@@ -38,26 +36,6 @@ Below is a screenshot of the login form:
    ```bash
    git clone https://github.com/Mamunahmedoffical/login-form.git
 
-cd login-form
-
-
-/project-folder  
-│── index.html        # HTML file  
-│── style.css         # CSS file  
-│── script.js         # JavaScript file  
-│── /image          # Images or other assets  
-
-
-Here’s the updated README.md file with your name and email address:
-
-markdown
-Copy
-Edit
-# 📋 Login Form  
-
-A clean and responsive login form built using **HTML**, **CSS**, and **JavaScript**.  
-
-![Login Form Screenshot](./Login-Form.png)
 
 ---
 
