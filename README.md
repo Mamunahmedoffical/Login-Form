@@ -67,7 +67,7 @@ Below is a screenshot of the login form:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Mamunahmedoffical/login-form.git
+  https://github.com/Mamunahmedoffical/Login-Form
 Navigate to the project folder:
 bash
 Copy
